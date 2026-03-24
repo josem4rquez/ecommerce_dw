@@ -68,7 +68,7 @@ Análise temporal (por data)
 
 ---
 
-##📄 Documentação
+## 📄 Documentação
 
 📌 Acesse a documentação completa do projeto no Notion:
 
