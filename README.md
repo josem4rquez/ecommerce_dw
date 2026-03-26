@@ -60,11 +60,11 @@ Gerador SQL → Staging → Transformação → Dimensões → Fato_vendas
 
 ## 📈 Possíveis Análises
 
-Faturamento total
-Vendas por produto
-Vendas por cliente
-Vendas por forma de pagamento
-Análise temporal (por data)
+- Faturamento total
+- Vendas por produto
+- Vendas por cliente
+- Vendas por forma de pagamento
+- Análise temporal (por data)
 
 ---
 
